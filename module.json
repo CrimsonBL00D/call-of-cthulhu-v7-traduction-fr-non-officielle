@@ -15,8 +15,8 @@
     }
   ],
   "url": "https://github.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle",
-  "manifest": "https://github.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle/blob/daf9cea5612e24fb0ac5595e9ed3eb23e7122e4b/module.json",
-  "download": "https://github.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle/master/module.json",
+  "download": "https://github.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle/archive/master.zip"
   "relationships": {
     "requires": [
       {

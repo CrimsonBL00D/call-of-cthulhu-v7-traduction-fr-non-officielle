@@ -1,0 +1,31 @@
+{
+  "id": "call-of-cthulhu-v7-traduction-fr-non-officielle",
+  "title": "Call of Cthulhu V7 traduction FR non officielle",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module"
+      }
+    ],
+    "systems": [
+      {
+        "id": "CoC7",
+        "type": "system"
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "CrimsonRed Art Studio"
+    }
+  ]
+   "url": "https://github.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle",
+  "manifest": "https://raw.githubusercontent.com/CrimsonBL00D/call-of-cthulhu-babele-french/main/module.json",
+  "download": "https://github.com/CrimsonBL00D/call-of-cthulhu-babele-french/archive/main.zip"
+}

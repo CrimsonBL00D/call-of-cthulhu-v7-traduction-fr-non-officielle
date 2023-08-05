@@ -1,0 +1,383 @@
+{
+	"label": "Skills",
+	"entries": {
+		"Accounting": {
+			"name": "Accounting",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Animal Handling": {
+			"name": "Animal Handling",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Anthropology": {
+			"name": "Anthropologie",
+			"description": "<p>Permet d&rsquo;identifier et de comprendre les traditions d&rsquo;un groupe par l&rsquo;observation. Pour utiliser cette comp&eacute;tence, l&rsquo;investigateur doit passer du temps au sein d&rsquo;une culture vivante, ou &eacute;tudier des documents s&ucirc;rs et objectifs sur une culture &eacute;teinte. Il peut alors faire des pr&eacute;dictions simples sur ses us et coutumes, m&ecirc;me s&rsquo;il se base sur des &eacute;l&eacute;ments incomplets. En consacrant un mois ou plus &agrave; cette culture, l&rsquo;investigateur commence &agrave; vraiment la comprendre. En combinant cette comp&eacute;tence avec Psychologie, il peut pr&eacute;dire les actions et les croyances des sujets.</p>
+			<p><br /><em><strong>Comp&eacute;tence oppos&eacute;e / Niveau de difficult&eacute;</strong></em> :<br />La difficult&eacute; d&rsquo;un test d&eacute;pend du temps que l&rsquo;investigateur passe avec les sujets<br />de son &eacute;tude.<br />&bull; <strong>Difficult&eacute; ordinaire</strong> : il passe un mois en leur compagnie.<br />&bull; <strong>Difficult&eacute; majeure</strong> : il ne passe qu&rsquo;une semaine ou moins avec eux.</p>
+			<p><br /><strong><em>Comment redoubler ?</em> </strong>Prendre plus de temps pour &eacute;tudier ses sujets ; partager<br />leur vie pendant un moment ; participer activement &agrave; une c&eacute;r&eacute;monie ou un rituel.<br />Cons&eacute;quences d&rsquo;un redoublement rat&eacute; ?<br /> L&rsquo;investigateur est attaqu&eacute; ou emprisonn&eacute; par les personnes qu&rsquo;il &eacute;tudie, &agrave; cause de fautes ou d&rsquo;insultes commises par maladresse ; il subit des effets secondaires ind&eacute;sirables suite &agrave; l&rsquo;ingestion de plantes hallucinog&egrave;nes lors d&rsquo;une c&eacute;r&eacute;monie.<br />Si un investigateur d&eacute;ment rate un redoublement, il peut se perdre dans<br />la culture &eacute;tudi&eacute;e, comme le photojournaliste interpr&eacute;t&eacute; par Dennis Hopper dans Apocalypse Now.</p>"
+		},
+		"Appraise": {
+			"name": "Appraise",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Archaeology": {
+			"name": "Archéologie",
+			"description": "<p>Permet la datation et l&rsquo;identification de reliques de civilisations pass&eacute;es, ainsi<br />que la d&eacute;tection des contrefa&ccedil;ons. La comp&eacute;tence sert &eacute;galement &agrave; mettre<br />en place et diriger des fouilles. En inspectant un site, l&rsquo;investigateur peut<br />en d&eacute;duire l&rsquo;usage et le mode de vie de ses habitants. L&rsquo;anthropologie peut<br />y aider. <br />L&rsquo;arch&eacute;ologie permet aussi de reconna&icirc;tre des textes &eacute;crits dans des<br />langues mortes.<br /><strong><em>Comp&eacute;tence oppos&eacute;e / Niveau de difficult&eacute;</em> </strong>:<br />&bull; <strong>Difficult&eacute; ordinaire</strong> : l&rsquo;investigateur dispose du temps et des ressources n&eacute;cessaires.<br />&bull; <strong>Difficult&eacute; majeure</strong> : il manque de temps ou d&rsquo;argent.<br />Comment redoubler ? Prendre plus de temps pour &eacute;tudier le site ou l&rsquo;objet ;<br />poursuivre les recherches ; consulter un autre expert.<br />Cons&eacute;quences d&rsquo;un redoublement rat&eacute; ? Le site est d&eacute;t&eacute;rior&eacute;, les trouvailles ruin&eacute;es par l&rsquo;incomp&eacute;tence, le vandalisme ou le vol ; les autorit&eacute;s saisissent le site ou les d&eacute;couvertes ; la publicit&eacute; faite autour des activit&eacute;s de l&rsquo;investigateur attire des voleurs.<br />Si un investigateur d&eacute;ment rate un redoublement, il peut continuer<br />ses excavatioons toujours plus&nbsp;profond&eacute;ment. Il sait que la v&eacute;rit&eacute; est la, quelque part...</p>"
+		},
+		"Art/Craft (Acting)": {
+			"name": "Art/Craft (Acting)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Art/Craft (Any)": {
+			"name": "Art/Craft (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Art/Craft (Fine Art)": {
+			"name": "Art/Craft (Fine Art)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Art/Craft (Forgery)": {
+			"name": "Art/Craft (Forgery)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Art/Craft (Photography)": {
+			"name": "Art/Craft (Photography)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Charm": {
+			"name": "Charm",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Civics": {
+			"name": "Civics",
+			"description": "<p>See the Cthulhu Invictus</p>"
+		},
+		"Climb": {
+			"name": "Climb",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Computer Use": {
+			"name": "Computer Use",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Credit Rating": {
+			"name": "Credit Rating",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Cthulhu Mythos": {
+			"name": "Cthulhu Mythos",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Demolitions": {
+			"name": "Demolitions",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Disguise": {
+			"name": "Disguise",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Diving": {
+			"name": "Diving",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Dodge": {
+			"name": "Dodge",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Drive Auto": {
+			"name": "Drive Auto",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Drive Carriage": {
+			"name": "Drive Carriage",
+			"description": "<p>See the Cthulhu by Gaslight</p>"
+		},
+		"Drive Horse / Oxen": {
+			"name": "Drive Horse / Oxen",
+			"description": "<p>See the Cthulhu Invictus</p>"
+		},
+		"Drive Wagon / Coach": {
+			"name": "Drive Wagon / Coach",
+			"description": "<p>See the Down Darker Trails Rulebook</p>"
+		},
+		"Electrical Repair": {
+			"name": "Electrical Repair",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Electronics": {
+			"name": "Electronics",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Empire": {
+			"name": "Empire",
+			"description": "<p>See the Cthulhu Invictus</p>"
+		},
+		"Fast Talk": {
+			"name": "Fast Talk",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Any)": {
+			"name": "Fighting (Any)",
+			"description": "<p>Use in occupations / archetypes to prompt to select one Fighting skill</p>"
+		},
+		"Fighting (Axe)": {
+			"name": "Fighting (Axe)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Brawl)": {
+			"name": "Fighting (Brawl)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Chainsaw)": {
+			"name": "Fighting (Chainsaw)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Flail)": {
+			"name": "Fighting (Flail)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Garrote)": {
+			"name": "Fighting (Garrote)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Spear)": {
+			"name": "Fighting (Spear)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Sword)": {
+			"name": "Fighting (Sword)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Throw)": {
+			"name": "Fighting (Throw)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Fighting (Whip)": {
+			"name": "Fighting (Whip)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Any)": {
+			"name": "Firearms (Any)",
+			"description": "<p>Use in occupations / archetypes to prompt to select one Firearms skill</p>"
+		},
+		"Firearms (Artillery)": {
+			"name": "Firearms (Artillery)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Bow)": {
+			"name": "Firearms (Bow)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Flamethrower)": {
+			"name": "Firearms (Flamethrower)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Handgun)": {
+			"name": "Firearms (Handgun)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Heavy Weapons)": {
+			"name": "Firearms (Heavy Weapons)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Machine Gun)": {
+			"name": "Firearms (Machine Gun)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Rifle/Shotgun)": {
+			"name": "Firearms (Rifle/Shotgun)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Firearms (Submachine Gun)": {
+			"name": "Firearms (Submachine Gun)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"First Aid": {
+			"name": "First Aid",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Gambling": {
+			"name": "Gambling",
+			"description": "<p>See the Down Darker Trails Rulebook</p>"
+		},
+		"History": {
+			"name": "History",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Hypnosis": {
+			"name": "Hypnosis",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Intimidate": {
+			"name": "Intimidate",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Jump": {
+			"name": "Jump",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Language (Any)": {
+			"name": "Language (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Language (Own)": {
+			"name": "Language (Own)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Law": {
+			"name": "Law",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Library Use": {
+			"name": "Library Use",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Listen": {
+			"name": "Listen",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Locksmith": {
+			"name": "Locksmith",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Lore (Any)": {
+			"name": "Lore (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Mechanical Repair": {
+			"name": "Mechanical Repair",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Medicine": {
+			"name": "Medicine",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Natural World": {
+			"name": "Natural World",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Navigate": {
+			"name": "Navigate",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Occult": {
+			"name": "Occult",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Operate Heavy Machinery": {
+			"name": "Operate Heavy Machinery",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Persuade": {
+			"name": "Persuade",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Pilot (Any)": {
+			"name": "Pilot (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Psychoanalysis": {
+			"name": "Psychoanalysis",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Psychology": {
+			"name": "Psychology",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Read Lips": {
+			"name": "Read Lips",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Ride": {
+			"name": "Ride",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Rope Use": {
+			"name": "Rope Use",
+			"description": "<p>See the Down Darker Trails Rulebook</p>"
+		},
+		"Science (Any)": {
+			"name": "Science (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Astronomy)": {
+			"name": "Science (Astronomy)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Biology)": {
+			"name": "Science (Biology)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Botany)": {
+			"name": "Science (Botany)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Chemistry)": {
+			"name": "Science (Chemistry)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Cryptography)": {
+			"name": "Science (Cryptography)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Engineering)": {
+			"name": "Science (Engineering)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Forensics)": {
+			"name": "Science (Forensics)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Geology)": {
+			"name": "Science (Geology)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Mathematics)": {
+			"name": "Science (Mathematics)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Meteorology)": {
+			"name": "Science (Meteorology)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Pharmacy)": {
+			"name": "Science (Pharmacy)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Physics)": {
+			"name": "Science (Physics)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Science (Zoology)": {
+			"name": "Science (Zoology)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Sleight of Hand": {
+			"name": "Sleight of Hand",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Spot Hidden": {
+			"name": "Spot Hidden",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Stealth": {
+			"name": "Stealth",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Survival (Any)": {
+			"name": "Survival (Any)",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Swim": {
+			"name": "Swim",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Track": {
+			"name": "Track",
+			"description": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>"
+		},
+		"Trap": {
+			"name": "Trap",
+			"description": "<p>See the Down Darker Trails Rulebook</p>"
+		}
+	}
+}

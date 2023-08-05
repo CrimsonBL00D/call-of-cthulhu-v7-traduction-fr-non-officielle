@@ -1,41 +1,35 @@
 {
   "id": "call-of-cthulhu-v7-traduction-fr-non-officielle",
-  "title": "Call of Cthulhu V7 traduction FR non officielle",
-  "description": "Traduction du systeme Call of Cthulhu V7 en francais",
-  "version": "0.6.0",
-  "esmodules": [
-    "babele-register.js"
+  "title": "Call of Cthulhu V7 traduction fr non officielle",
+  "description": "Traduction de Call of Cthulhu V7 en Francais",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+	}
+  "dependencies": [
+    {
+      "name": "babele",
+      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+      "version": "1.20"
+    },
+    {
+      "name": "CoC7",
+      "type": "system",
+      "version": "0.5.4"
+    }
   ],
+  "packs": [],
   "languages": [
     {
       "lang": "fr",
       "name": "Francais",
-      "path": "lang/fr.json",
-      "flags": {}
+      "path": "lang/fr.json"
     }
   ],
+  "system": "CoC7",
+  "systemVersion": "0.5.4",
   "url": "https://github.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle",
   "manifest": "https://raw.githubusercontent.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle/main/module.json",
-  "download": "https://github.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle/archive/master.zip"
-  "relationships": {
-    "requires": [
-      {
-        "id": "babele",
-        "type": "module",
-        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-        "compatibility": {}
-      }
-    ],
-    "systems": [
-      {
-        "id": "CoC7",
-        "type": "system",
-        "compatibility": {}
-      }
-    ]
-  },
-  "compatibility": {
-    "minimum": "0.7.0",
-    "verified": "0.7.9"
-  }
+  "download": "https://github.com/CrimsonBL00D/call-of-cthulhu-v7-traduction-fr-non-officielle/archive/refs/heads/main.zip"
 }
